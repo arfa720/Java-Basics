@@ -1,15 +1,15 @@
 
-#### **06_Functions.java**
+#### **07_ClassesAndObjects.java**
 ```markdown
-# Functions in Java
+# Classes and Objects in Java
 
 ## Description:
-This Java program demonstrates how to define and use functions in Java.
+This Java program demonstrates the basic concepts of classes and objects in Object-Oriented Programming (OOP).
 
 ## Objective:
-Learn how to define and call methods in Java.
+Understand how to define classes and create objects in Java.
 
 ## How to Run:
 1. Compile the code:
    ```bash
-   javac 06_Functions.java
+   javac 07_ClassesAndObjects.java
