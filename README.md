@@ -18,7 +18,4 @@ Welcome to the Java Basics repository! This repository is designed for beginners
 3. Compile and run each file to see the output.
 4. Experiment by modifying the code to enhance your understanding.
 
-## Example Output
-### Hello World (`01_HelloWorld.java`)
-
 Happy Learning! 🚀
